@@ -1,5 +1,6 @@
 
 ## **My GitHub/School Stats**
+<!-- <a href="https://github.com/oakoudad/badge42"><img align='right' src="https://badge.mediaplus.ma/darkblue/msouiyeh" alt="msouiyeh's 42 stats" /></a> -->
 <a href="https://github.com/oakoudad/badge42"><img align='right' src="https://badge.mediaplus.ma/darkblue/msouiyeh" alt="msouiyeh's 42 stats" /></a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-souiyeh&theme=ayu-mirage&hide=html,makefile,css&exclude_repo=Yona2.0,Nand2Tetris&langs_count=6)](https://github.com/mohamed-souiyeh/github-readme-stats)
 <p align="center">
