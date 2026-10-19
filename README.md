@@ -8,7 +8,7 @@ I don't just use tools; I build them from scratch to understand how they work. W
 * **Languages:** Go, TypeScript, C++, C.
 * **Infrastructure:** Docker, Grafana, Prometheus, Linux.
 * **Current Interests:** Storage Engines, Distributed Systems, Database Internals, Network Protocols.
-
+<!---
 ### 🚀 Featured Projects
 
 | Project | Description | Stack |
@@ -20,7 +20,7 @@ I don't just use tools; I build them from scratch to understand how they work. W
 
 ### ✍️ Writing
 I write about my engineering journey and the systems I build on **[Medium](https://medium.com/@msouiyeh)**.
-
+--->
 ---
 [LinkedIn](https://www.linkedin.com/in/m-souiyeh)
 <!--
