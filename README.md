@@ -5,6 +5,7 @@ Rather than treating technology as a black box, I enjoy diving into database int
 
 ### 🛠️ Core Technologies
 * **Languages:** Go, TypeScript, C++, C.
+* **Back-end:** SQL, Relational Databases, REST API, 
 * **Infrastructure:** Docker, Grafana, Prometheus, Linux, infisical, CI/CD.
 * **Current Interests:** Storage Engines, Distributed Systems, Database Internals, Network Protocols.
 <!---
