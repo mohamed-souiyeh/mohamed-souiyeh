@@ -1,12 +1,11 @@
-## Hi there, I’m Mohamed! 👋
+## Hi there, I'm Mohamed! 👋
+I'm a software developer based in Spain with a strong focus on **Backend Development**, **Systems Engineering**, and **DevOps**. I am deeply curious about how systems work under the hood, and I value building reliable, simple, and maintainable software.
 
-I’m a **Software Engineer** based in Spain, driven by a deep curiosity for **Systems Engineering**, **Backend Development**, and **DevOps**.
-
-I don't just use tools; I build them from scratch to understand how they work. Whether it's a relational database engine, a visualization platform for complex algorithms, or an SSH-based chat server, I build to learn.
+Rather than treating technology as a black box, I enjoy diving into database internals, concurrency, and network protocols to truly understand the tools I use. I'm always eager to tackle complex problems and learn alongside a great team.
 
 ### 🛠️ Core Technologies
 * **Languages:** Go, TypeScript, C++, C.
-* **Infrastructure:** Docker, Grafana, Prometheus, Linux.
+* **Infrastructure:** Docker, Grafana, Prometheus, Linux, infisical, CI/CD.
 * **Current Interests:** Storage Engines, Distributed Systems, Database Internals, Network Protocols.
 <!---
 ### 🚀 Featured Projects
